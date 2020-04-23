@@ -1,0 +1,28 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 50px 0;
+  height: 500px;
+}
+.container {
+  color: black;
+  text-align: center;
+  background-size: cover !important;
+  align-items: center;
+  justify-content: center;
+}
+.container h1 {
+  font-size: 50px;
+  font-weight: bold;
+  text-shadow: 0px 1px rgba(0, 0, 0, 0.2);
+  color: white;
+  margin-top: 150px;
+  margin-bottom: 50px;
+}
+.banner p {
+  font-size: 35px;
+  font-weight: lighter;
+  color: rgba(255, 255, 255, 0.8);
+  margin-bottom: 40px;
+  color: white;
+}
